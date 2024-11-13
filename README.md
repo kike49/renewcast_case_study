@@ -1,5 +1,5 @@
 # Renewcast case study
-This is a full-stack project where the backend is built with Django Ninja and the frontend is a React application using Recharts for data visualization. React app is being created using Vite. It is in development mode, not ready for production.
+This is a full-stack project where the backend is built with [Django Ninja](https://django-ninja.dev/) and the frontend is a React application using [Recharts](https://recharts.org/en-US) for data visualization. React app is being created using [Vite](https://vite.dev/). It is in development mode, not ready for production.
 
 ### Prerequisites
 Before running the project locally, make sure you have the following installed:
@@ -11,11 +11,11 @@ Before running the project locally, make sure you have the following installed:
 #### 1. Set up a virtual environment
 Create and activate a virtual environment:
 
-`python3 -m venv venv`
+`virtualenv venv_name`
 
-On macOS/Linux: `source venv/bin/activate`
+On macOS/Linux: `source venv_name/bin/activate`
 
-On Windows: `venv\Scripts\activate`
+On Windows: `venv_name\Scripts\activate`
 
 #### 2. Install backend dependencies
 With the virtual environment activated, install the required backend dependencies:
