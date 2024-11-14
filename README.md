@@ -46,3 +46,6 @@ npm install
 `npm run dev`
 
 The frontend should now be running at [http://localhost:5173/](http://localhost:5173/).
+
+
+![image](https://github.com/user-attachments/assets/66844b9c-516b-49f2-8cd0-04782d1ca5d2)
